@@ -3,3 +3,4 @@ Bilgisayarım ile git arasında yaşadığım problemden ötürü yaptığım de
 
 Bunun yanında FollowTheFinger script' i yerine FollowTheMouse scripti BlackHole objesine yüklenirse oyun aynı zamanda mause ile oyanabilir bir hale gelir. 
 deneme yapıldı
+olmuyor
