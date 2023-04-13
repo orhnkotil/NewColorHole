@@ -5,3 +5,4 @@ Bunun yanında FollowTheFinger script' i yerine FollowTheMouse scripti BlackHole
 deneme yapıldı
 olmuyor 
 oldumu
+deneme branchten denendi
